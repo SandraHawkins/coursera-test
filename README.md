@@ -1,3 +1,3 @@
-# coursera-test
+# coursera-testing : Sandra
 
 Sandra was here
